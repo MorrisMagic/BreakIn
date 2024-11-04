@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "name": "BreakIn",
+    "slug": "BreakIn",
+    "version": "1.0.0",
+    "backgroundColor": "#000000",
+    "orientation": "portrait",
+    "icon": "./assets/fish.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/fish.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/fish.png",
+        "backgroundColor": "#000000"
+      },
+      "package": "com.youssefhabbachixx.BreakIn"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a4a9c7ca-0d48-4f18-ba04-5aed6758edab"
+      }
+    }
+  }
+}
